@@ -4,7 +4,6 @@ Script to verify Wii U meta images for use in custom channels
 
 > [!NOTE]
 > This is originally based on [Zarklord's TgaVerify](https://gbatemp.net/threads/450997), this is merely an update and rewrite.
-> 
 > This isn't as needed anymore, as homebrew is generally distributed through WUHBs for use with Aroma.
 
 
